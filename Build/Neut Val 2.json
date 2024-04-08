@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slot-Simulator",
+"dataUrl": "Neut Val 2.data.unityweb",
+"wasmCodeUrl": "Neut Val 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Neut Val 2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
